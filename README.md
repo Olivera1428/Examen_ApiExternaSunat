@@ -2,7 +2,7 @@
 
 Backend en **Spring Boot** para consultar información de empresas mediante RUC usando la API **DECOLECTA**.  
 Spring Boot + JPA crea automáticamente las tablas `company` y `consulta` según las entidades definidas.
----
+
 #Tecnologías utilizadas
 
 - **Java 17**  
@@ -10,7 +10,7 @@ Spring Boot + JPA crea automáticamente las tablas `company` y `consulta` según
 - **Spring Data JPA / Hibernate**  
 - **PostgreSQL**  
 - **Maven**
----
+
 Configuración
 
 ###  application.properties
